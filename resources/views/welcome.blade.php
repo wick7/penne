@@ -77,6 +77,11 @@
             .bold {
               font-weight: bold;
             }
+
+            .form-group {
+              margin:.5em;
+            }
+
         </style>
     </head>
 
@@ -148,7 +153,7 @@
       </div>
       <hr>
       <div class="row main">
-        <div class="col-lg-12 col-md-12 col-xs-12 text-center "><strong>LIST</strong></div>
+        <div class="col-lg-12 col-md-12 col-xs-12 text-center"><strong>LIST</strong></div>
       </div>
       <hr>
       <div class="row">
@@ -165,8 +170,6 @@
                   <br><label for="input" class="col-form-label">Phone: @{{item.phone}}</label>
                   <br><label for="input" class="col-form-label">Size: <span class="badge">@{{item.size}}</span></label>
                 <br><label for="input" class="col-form-label">Since: <span class="badge">@{{item.time}}</span></label>
-
-
               </span>
             </transition-group>
           </div>
