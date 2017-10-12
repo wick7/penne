@@ -97,8 +97,7 @@
       </div> --}}
       <hr>
       <div class="row main">
-        <div class="col-lg-6 col-md-6 col-xs-6 text-center "><p>SIGN UP</p></div>
-        <div class="col-lg-6 col-md-6 col-xs-6 text-center "><strong>LIST</strong></div>
+        <div class="col-lg-12 col-md-12 col-xs-12 text-center "><p>SIGN UP</p></div>
       </div>
       <hr>
     </div>
@@ -147,6 +146,11 @@
           </div>
         </form>
       </div>
+      <hr>
+      <div class="row main">
+        <div class="col-lg-12 col-md-12 col-xs-12 text-center "><strong>LIST</strong></div>
+      </div>
+      <hr>
       <div class="row">
         <div class="col-md-12 col-xs-12">
           <div class="list-group" style="">
