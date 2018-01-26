@@ -17,6 +17,6 @@ npm install
 
 ## Authors
 
-* **Craig Wickersham** 
+* **Craig W** 
 
 
